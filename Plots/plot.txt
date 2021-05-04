@@ -1,0 +1,4 @@
+ResNet 50
+VGG16
+VGG19
+IncRes_V2
